@@ -8,12 +8,12 @@
 - [ ] Initial setup complete
 
 ## To Do
-- [ ] Add first project idea
 - [ ] Add first thought
 
 ## Done
 - [x] Repo created on GitHub
 - [x] Initial structure (projects/, thoughts/, research/)
+- [x] First idea: Note-Based NLE
 
 ## Blocked
 
