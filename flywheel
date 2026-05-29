@@ -1,0 +1,20 @@
+# FLYWHEEL.md
+
+How an agent ships and improves this project, turn by turn.
+`AGENTS.md` = what to do. `SOUL.md` = who to be. `FLYWHEEL.md` = how to ship.
+
+## The loop
+Ship, verify, learn, improve. Each turn compounds.
+
+## The stages (the four the wheel turns, split or rename to fit)
+1. Ship. Plan the approach and blast radius, build in small reversible steps, review diff/tests/data flow, then merge, release, deploy. Gate: a human signs off on anything risky or irreversible.
+2. Verify. Prove it in production, with evidence. A passing test is not proof.
+3. Learn. Cost, regressions, feedback. Gate (often): wait for real-world signal.
+4. Improve. Fix the cause, raise the bar, delete the toil.
+
+## The bar (holds every stage)
+- Done means deployed and verified, with evidence.
+- Every iteration costs money.
+- Know your data flow.
+- Fix the cause, never the symptom.
+- Leave a trail.
