@@ -32,13 +32,17 @@ Setting up Live Link camera tracking in UE is tedious and error-prone:
 - **Blueprint node:** Expose as a function for procedural setups
 - **Presets:** Save/load configurations for different camera rigs
 
+## Decisions
+
+- **UX:** One-click setup (no wizard)
+- **Multi-camera:** Yes — support multiple camera setups
+- **Distribution:** Unreal Marketplace first, GitHub later
+- **Protocols:** Both FreeD and OpenTrack as presets
+
 ## Open Questions
 
-- Should it support both FreeD and OpenTrack as separate presets?
 - How to handle lens calibration — import from file or manual entry?
 - Should it create a new camera actor or configure an existing one?
-- Support for multi-camera setups?
-- Marketplace vs. free GitHub release?
 - UE5 only or also UE4 support?
 - Should it auto-detect FreeD packets on the network to find the right port?
 
