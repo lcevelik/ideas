@@ -96,3 +96,44 @@
 ---
 
 *Sources: YouTube transcripts, June 2026*
+
+### Claude Code Just Made Fine-Tuning AI Images Stupid Easy!
+
+- **Source:** https://youtu.be/wZYD-zTKe7Y?si=MhigZMwhMqzPsXH0
+- **Duration:** 19:02 (1141.5s)
+
+### Key Points
+
+- **[00:01]** AI image models are incredible at giving you something new every time you prompt
+- **[00:41]** this video, we are going to create our own custom Laura, which means Laura and
+- **[01:21]** models, encode text prompts, set image dimensions, run the diffusion sampling
+- **[02:01]** since you have full control over this process. And since I'll be showing you
+- **[02:39]** you're a complete beginner. And if you follow along and actually watch until
+- **[03:17]** another link in the description, and you can just scroll down here to install
+- **[03:52]** Cloud Code installed. So, what we're going to do now is just open up ComfyUI,
+- **[04:29]** can select that. And then {slash} effort, we can change it to whatever we
+- **[05:03]** using throughout this video and paste them into your workflows. Okay, now we
+- **[05:38]** and we're just going to send that off. Now, once that's sending, let me explain
+- **[06:18]** node types, and now it's writing the adapted skill. And as you can see,
+- **[06:54]** offer them this kind of a service. Again, there's lots of different use
+- **[07:30]** off the prompt I just showed you a minute ago, you can type into the
+- **[08:04]** but you can just click down here on the download button, which will install Koh
+- **[08:41]** in this red box. If you're using the same exact model that I'm using, you
+- **[09:19]** images with the trained LoRA locally on my Mac. Basically, handle the whole
+- **[10:00]** lighting, style, clothes, etc. Because inside of a LoRA, there are billions of
+- **[10:39]** product as possible. So then we can add a trigger word which helps the model
+- **[11:19]** change the LoRA by a tiny step until eventually it basically has as little
+- **[11:56]** you to connect to external services. So for this use case, we're going to use it
+- **[12:32]** file, I'm going to say, "Open the file for me where I need to paste my API
+- **[13:06]** have a readme file right here. This is basically instructions for you the human
+- **[13:46]** detailed instructions and explain to it what you're struggling with. There's no
+- **[14:26]** click queue. But there is no queue. So, I have a question, so I'm going to
+- **[15:00]** the console on the left side bar near the bottom. Okay, so as you can see, we
+- **[15:39]** top-up enabled, it's not going to just drain your wallet. It might drain your
+- **[16:16]** don't know. But doing this on cloud for 10 to 20 minutes for $2 is definitely
+- **[16:51]** workflows for you. And as you can see, I'm also just following what Cloud Code
+- **[17:36]** machine, so we can see which node is actually being worked on in real time.
+- **[18:12]** suit, I'll be honest, but this isn't too much of the fault of the Laura. This is
+- **[18:49]** any of these nodes because cloud code just simply don't order that for us.
+
+---
