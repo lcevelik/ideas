@@ -164,3 +164,44 @@ Install messaging gateway as a system service that starts on boot — critical f
 - *15 Hermes Agent use cases I wish I tried sooner* — [YouTube](https://youtu.be/gpJNLgv3vdw)
 - *Hermes AI Study Companion — 6 Agents + Mission Control* — Larry's tutorial
 - *How I deleted 95% of my agent skills and got better results* — Nick Nisi, WorkOS
+
+### Hermes Bible: You Can Copy REAL Agent Workflows
+
+- **Source:** https://youtu.be/t_GxN2Gwqsk?si=jGr3fhkyGmQgpuJS
+- **Duration:** 10:53 (652.5s)
+
+### Key Points
+
+- **[00:01]** Okay, folks, we've been preaching since day one that the best way to work with
+- **[00:22]** whatever workflow you want to set up with your Hermes agent, they can always
+- **[00:44]** that you can draw inspiration from or even copy. You can check on next, you
+- **[01:06]** so that other people can copy or draw inspirations from. So, it's not
+- **[01:26]** going to walk through the Hermes Bible. We're going to talk about some of the
+- **[01:44]** Hermes agent workflow from day to day. But, what I noticed is
+- **[02:06]** uh your you know, until you interact with your Hermes agent. So, what you can
+- **[02:28]** basically, even if I close this, right? I go back
+- **[02:54]** You can type tmux ls and you'll see the tmux sessions that are currently active.
+- **[03:17]** session. So, this is very useful if you're running loops, if you have an
+- **[03:39]** you're using the app, uh it's a full tour of the desktop app. It contains
+- **[03:59]** backend, which we in fact did a video guide on how to do that. You can check
+- **[04:18]** well. It's like a complete roadmap of your mastery of Hermes agent. So, level
+- **[04:44]** using MCPs. Level six is the builder tier. So, scheduled and async tasks.
+- **[05:07]** that you can make use of. And it goes all the way up to level 14. And I find a
+- **[05:30]** but much more so for the agents.md and the user.md. Now, the slash goal is
+- **[05:51]** measurable goals, and the recommended workflows. There's also a companion flow
+- **[06:10]** before you go ahead and start a new session, make sure you start a new
+- **[06:31]** already a loop system that you can run. So,
+- **[06:53]** LLM Wiki as well, and then you'll get a full output every
+- **[07:17]** You'll need another agent to verify that the work is in fact
+- **[07:35]** easy mundane tasks that takes a lot of time if you were to do it yourself. But,
+- **[07:56]** run those uh coding projects. Now, if you're an
+- **[08:16]** tickets, then the coding agents writes the implementation, review agent audits
+- **[08:37]** agent-to-agent coordination. So, the agents use the Kanban board to claim
+- **[08:56]** on X and you don't want to pay with API key, but you are paying for X Premium,
+- **[09:19]** loops, there's a community member that recommends eight loops that you can run
+- **[09:43]** sub-agent loop for your Hermes agent. So, uh what you can do is you can in
+- **[10:03]** note every 30 minutes or every hour, that's also another loop use case that
+- **[10:26]** every time you need help for those workflows that you're running. So, if
+- **[10:44]** an even more workflow examples that we can copy. All right? So, if you find
+
+---
