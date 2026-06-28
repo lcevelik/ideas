@@ -204,4 +204,43 @@ Install messaging gateway as a system service that starts on boot — critical f
 - **[10:26]** every time you need help for those workflows that you're running. So, if
 - **[10:44]** an even more workflow examples that we can copy. All right? So, if you find
 
+### Claude Code + Hermes Agent = $10,000 AI Agents
+
+- **Source:** https://youtu.be/gYzlgK5Dw1s?is=BbNpnj-T8W1DI-17
+- **Duration:** 19:14 (1153.6s)
+
+### Key Points
+
+- **[00:02]** Businesses are paying $10,000 for AI agents that realistically now only take
+- **[00:43]** systems for thousands of dollars to businesses. [music]
+- **[01:21]** takes 47 hours to respond to a lead and responding in 5 minutes instead of 30
+- **[01:59]** questions about that, and it will book the the actual inspection, the free
+- **[03:15]** You can go to one-click deploy. Look for Hermes Agent inside of the catalog here.
+- **[03:53]** And it says error because we have not connected the AI model yet, which is
+- **[04:29]** use to buy the number that we're going to use. I recommend that you're on the
+- **[05:04]** to be anything crazy. Now, once we have this, in this case I already have a
+- **[05:39]** developers, you can go to API keys, and then you can press create key,
+- **[06:13]** actually schedule. So you make an account on cal.com, it's completely
+- **[06:48]** the foundations for the whole system, and making sure that the system has
+- **[07:21]** actual form, we can go to forms here, and we can go to profile, we can go to
+- **[08:01]** go to building the app on Cloud Code and start there. Hey guys, quick one here.
+- **[08:33]** here. It will take about a few seconds to to download. You want to go to API
+- **[09:13]** Create a key here, JSON, create it. Uh and now it might get a bit bit
+- **[09:52]** right here, which is the anything from the D until the edit, and paste it
+- **[10:23]** prompt itself. As you can see, now it's starting to make the actual folders and
+- **[10:56]** right. So, Clock Code just finished making all the different files.
+- **[11:31]** Hermes agent, and you can actually just copy everything from before chat
+- **[12:13]** Hermes agent, right? So, copy this and say
+- **[12:51]** through. So, very good for asking, and uh everything else, yes. All right, so
+- **[13:23]** any prompts that we give it. All right, so this right here is going to be the
+- **[13:58]** I need to replace?" And you can go back and forth, uh which is fine. And we have
+- **[14:37]** can include all the different ENVs and all the different passwords and keys and
+- **[15:11]** right, cool. So, if you see Hermes agent listening on 0000 3000, that means that
+- **[15:59]** truth. We can test it. If it doesn't work, we'll fix it. If it does, amazing.
+- **[16:37]** reaching out to us. Can you tell me a bit more about the issue or the
+- **[17:11]** time. If you need to reschedule, just give us a call. Have a great day.
+- **[17:48]** the system. Because if a lead is worth a lot more for Y business than X business,
+- **[18:25]** now taken two softwares and you have built a working agents that businesses
+- **[18:58]** everything there. And now that you've actually built and packaged one specific
+
 ---
