@@ -559,3 +559,44 @@ HuggingFace model → Export with LiteRT Torch → Deploy with LiteRT LLM
 ---
 
 *Last updated: 2026-06-20*
+
+### You NEED to try this 6 Open-Source Projects NOW
+
+- **Source:** https://youtu.be/1RTq_EWv2Yo
+- **Duration:** 09:15 (554.9s)
+
+### Key Points
+
+- **[00:01]** Here are six incredible open-source projects that you can install right now.
+- **[00:19]** inference, training models, and everything in between. So, let me show
+- **[00:38]** Glimmer, which just launched by Meta, Deep Seek V4, Gemma by Google,
+- **[00:57]** have MCP, it has memory, everything that you need all in one place, and all
+- **[01:15]** hardware. You can actually remote access into it, which is really nice. So, you
+- **[01:30]** video models, text models, basically everything. Really, just out of the box,
+- **[01:45]** ways that things can go wrong, but Unsloth makes it really easy, and you
+- **[01:59]** going to drop all of the links to all of these projects down below. Next is a
+- **[02:18]** use. And, they have a ton of different diagram options for you. Here's a flow
+- **[02:35]** CodeX, in Pi, and you can install it in Hermes Agent, which is what I'm going to
+- **[02:51]** actually have my computer on and running all day long. I simply type install
+- **[03:09]** And, of course, it knew to use the diagram design skill. And, while that's
+- **[03:26]** a one-click install to get Hermes running. So, if Hermes was a little bit
+- **[03:44]** months, you get the biggest discount. So, go check it out. Link down below.
+- **[03:59]** when you first get into it and start using it is this little bit on top, but
+- **[04:19]** cool ways. Obsidian skills uses the agent skill specification, so it can be
+- **[04:39]** their agent, basically throwing everything into it and using it as kind
+- **[04:56]** locally if you want. It is very much local first. If you want to sync across
+- **[05:12]** created Square and now it's called Block, they have an open-source Slack
+- **[05:33]** So, this is what it looks like. If you're familiar with Slack, you'll
+- **[05:54]** they are both users, first-class users of Buzz. And I think that's kind of the
+- **[06:12]** host all of this stuff locally, you're probably thinking quite deeply about.
+- **[06:32]** it. It is not really just a chat app. It very much lets you build out automations
+- **[06:49]** workflow step, review, approval, and get event is a signed event in one log. Same
+- **[07:09]** source, closed source, hosted, local, whatever you want. And because it is
+- **[07:27]** open-source project that is self-described as the fastest browser to
+- **[07:45]** your logged-in browser state with your AI agents like Codex or Claude code
+- **[08:09]** And we can actually see it running. So, it has that nice blue glimmer. You can
+- **[08:28]** out. And the last project is Modely, coming in at just under 6,000 stars. It
+- **[08:48]** will create a 3D mesh that you can then use for your 3D printing or your game or
+- **[09:07]** Linux, and Mac and many different GPUs. So, if you're into 3D modeling, go try
+
+---
