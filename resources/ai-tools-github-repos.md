@@ -136,4 +136,42 @@
 - **[18:12]** suit, I'll be honest, but this isn't too much of the fault of the Laura. This is
 - **[18:49]** any of these nodes because cloud code just simply don't order that for us.
 
+### ComfyUI Tutorial for Beginners: Full Node Graph Basics (2026)
+
+- **Source:** https://youtu.be/TQhIYT1ZYGQ
+- **Duration:** 1:12:16 (4335.6s)
+
+### Key Points
+
+- **[00:02]** All right, let's start with a brief introduction to what comfy actually is
+- **[02:55]** film where you have your actor and you've got the script and you've got all
+- **[05:27]** All right. And before we jump into Comfy uh for real, let's Now the introductions
+- **[07:56]** open-source library. That's That's the That's the amazing
+- **[10:24]** than than the RGB image. And the VAE decode, well, it decodes it. And it
+- **[13:00]** it in one. Uh just make sure that if you have separate clips or VAEs, you're
+- **[15:32]** and stayed uh right off to the side. It's really cool, too, is if you
+- **[17:54]** going to give you a subgraph and subgraphs we'll talk all about later.
+- **[20:22]** all that stuff. Well, I hope this kind of shows you you're not really that
+- **[22:49]** uh to other artists that they may not need access to your whole node graph,
+- **[25:08]** back. Uh but once we're happy, we just click save.
+- **[27:37]** Uh, we've talked about our assets. So, if I click here again, you'll see our
+- **[29:57]** product. Well, you can just jump right in and use this.
+- **[32:12]** familiar with this. I keep these as default, but if you really want to
+- **[34:31]** move around, what all the knob all the different sidebar knobs are
+- **[37:01]** with it's it being a little bit hard to visualize where all of the models are
+- **[39:09]** another tool for fighting the spaghetti. Uh, so what we can do over here is this
+- **[41:18]** I will typically sometimes uh stack all of my my get nodes underneath the VAE,
+- **[43:38]** workspace here, an infinite node graph. So, use the space. Uh
+- **[45:59]** give you the things it thinks you're going to want. So, uh your negative
+- **[48:18]** thing. Honestly, they're slightly different, but don't get too over Don't
+- **[50:28]** Rename slot. Output. Hit enter. There we go.
+- **[52:48]** everything. Again, very powerful back-end system. You can
+- **[55:14]** tower, the big LEGO pirate ship that we all that we all really coveted as a kid.
+- **[57:39]** also from top creators. So if we click on the top creators, you're going to see
+- **[60:15]** really just whatever you you you want to explore, we'll talk about all about that
+- **[62:47]** we'll say unsaved workflow. Click save. All right. Let's go ahead and open up
+- **[65:07]** model. Your clip text, inputting your prompts.
+- **[67:30]** Then you've got your pipeline nodes. Well, those are my favorite, of course,
+- **[69:53]** It's basically all these nodes are are basically just decisions that you are
+
 ---
