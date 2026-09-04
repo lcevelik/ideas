@@ -599,4 +599,45 @@ HuggingFace model → Export with LiteRT Torch → Deploy with LiteRT LLM
 - **[08:48]** will create a 3D mesh that you can then use for your 3D printing or your game or
 - **[09:07]** Linux, and Mac and many different GPUs. So, if you're into 3D modeling, go try
 
+### AI Video Retakes Just Got INSANE! LTX Director X Pro v1.5 SUPER FAST
+
+- **Source:** https://www.youtube.com/watch?v=UENEPSifuCM
+- **Duration:** 16:22 (981.8s)
+
+### Key Points
+
+- **[00:08]** Better than not fabins. They fit to the lifetime [music] lightning antenna.
+- **[00:54]** are going to approach this like a small directing and editing session.
+- **[01:25]** text encoder, and projection, video VAE, audio VAE, and stage 2 latent upscaler
+- **[01:58]** connections visible makes the workflow easier to audit. If something is
+- **[02:29]** comfy UI. The point is to make the creative part of the workflow feel more
+- **[02:59]** the final refinement path. I always treat stage one as the place to make
+- **[03:27]** character placement, costume colors, and the overall blue purple night atmosphere
+- **[03:55]** glance. I can see which frame contains the relay node, which one contains the
+- **[04:23]** absolutely build a longer scene, but the reliable way is to build it from several
+- **[04:52]** first one. And then a third shot if the scene needs another beat. The
+- **[05:21]** sequence. There is an important editing rule here. When two adjacent clips touch
+- **[05:50]** does not need one. Now, I select the first shot and move to the AI assistant
+- **[06:20]** assistant should not invent spoken lines just because there are characters on
+- **[06:49]** project. The result is organized into clear sections for visual direction,
+- **[07:18]** back. Stable results usually come from prompts that are specific about the
+- **[07:46]** the same cinematic atmosphere across the timeline. The global prompt is where I
+- **[08:14]** continuation, not a completely new story. For example, continue the rooftop
+- **[08:42]** source image shows an important visual event, such as visible electricity
+- **[09:11]** segments can be used for a title, a scene label, an overlay note, or a
+- **[09:38]** of empty lanes. You can build a more complex nonlinear edit, but you should
+- **[10:08]** source moves together. The left and right channels are not split into
+- **[10:36]** us look at the FX join between two adjacent shots. By default, it
+- **[11:07]** displays the active effect name. This is not just a visual decoration. The
+- **[11:36]** camera pushes in too quickly. I do not want to regenerate the entire timeline
+- **[12:06]** into a proper retake prompt and retry this targets that selected range instead
+- **[12:34]** final LTX generation itself. It lets me play the active visual and audio tracks
+- **[13:04]** play, stop, and move forward. This is especially useful once [music] the
+- **[13:31]** too aggressive, I simplify the cinematography. If faces start drifting,
+- **[14:02]** is connected and that it contains LTX 2.3 spatial upscaler X21.1 safe tensors.
+- **[14:36]** one purposeful shot, one readable action, and only the effects that the
+- **[15:06]** reviewed the edit through playback, generated a stage one draft, and then
+- **[15:35]** the next tutorial, I will go deeper into building longer sequences from short
+- **[16:07]** &gt;&gt; Princess and Dadier. &gt;&gt; It didn't
+
 ---
