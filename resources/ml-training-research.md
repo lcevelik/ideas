@@ -640,4 +640,44 @@ HuggingFace model → Export with LiteRT Torch → Deploy with LiteRT LLM
 - **[15:35]** the next tutorial, I will go deeper into building longer sequences from short
 - **[16:07]** &gt;&gt; Princess and Dadier. &gt;&gt; It didn't
 
+### Ben Affleck Sold His AI Company For $587M—This is His Prediction For The Future
+
+- **Source:** https://youtu.be/MzXEWrT3Ld8?si=rxv7gKsAQ4NdhikW
+- **Duration:** 10:14 (613.7s)
+
+### Key Points
+
+- **[00:00]** - The other thing I alluded to before,
+- **[00:19]** And then when film started to move from film, analog film,
+- **[00:39]** to what the transformer can do,
+- **[00:58]** That numeric is called a tensor.
+- **[01:18]** So that was sort of familiar to me early on,
+- **[01:35]** So I have learned to be able to sort of like, oh,
+- **[01:53]** like generate very realistic-looking video.
+- **[02:11]** You can't really control this. It's not really consistent."
+- **[02:27]** You have to have the question and the answer, essentially,
+- **[02:49]** of the domain expertise of filmmaking,
+- **[03:09]** So once I saw that and sort of argued with
+- **[03:25]** - Well, I'm not doing a very good job.
+- **[03:42]** called LivePlanet in 1999, where we did, you know,
+- **[03:58]** "Hey, well, why don't you work with us?
+- **[04:14]** I don't want this technology to develop somewhere else
+- **[04:29]** and I'm happy to go into.
+- **[04:49]** So I basically used some money.
+- **[05:08]** "No, that's not enough."
+- **[05:22]** and incorporating Unreal and volume stages,
+- **[05:44]** I was not comfortable with that.
+- **[06:00]** Not just, oh, look, I can create a fire, right?
+- **[06:19]** like, to capture this technology for filmmakers
+- **[06:36]** I think societally at this point,
+- **[06:54]** whether they're puffing up their chest
+- **[07:14]** you have to use it responsibly.
+- **[07:50]** Like, that's what we're used to.
+- **[08:07]** Inference, which is like running information
+- **[08:30]** I'm going to hand the keys over to this
+- **[08:48]** Like going out and saying,
+- **[09:12]** And there's a lot of power in being the authority
+- **[09:28]** the most sharply things that could threaten our lives,
+- **[09:51]** And one of the best tools we have to ensure that is that,
+
 ---
