@@ -680,4 +680,12 @@ HuggingFace model → Export with LiteRT Torch → Deploy with LiteRT LLM
 - **[09:28]** the most sharply things that could threaten our lives,
 - **[09:51]** And one of the best tools we have to ensure that is that,
 
+### Transformers Explained in One Sentence (GraduateML Instagram Reel)
+
+- **Source:** https://www.instagram.com/reel/DeR5Ox8Ti-4/
+- **Duration:** 51.4s (0:51)
+
+### Key Points
+
+
 ---
