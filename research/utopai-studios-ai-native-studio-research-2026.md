@@ -71,6 +71,25 @@ Evidence: official "What is PAI" blog, PAI product page, Matias Collado "Super P
 - PAI's design principles map onto HIVE/VP: locked references = their continuity solution ↔ proposal's "locked world" (Route B); PAI Code/Claude Code integration validates agentic pipeline approach; "finishing stays human" aligns with VP supervised model.
 - 80-90% cost claim + "price both ways" post = ammunition for §2/§4 budget comparison.
 
+## Part 8: VibeDex AI Filmmaking Platform Rankings 2026 — Issue 2 (added 2026-11-03)
+*Source: vibedex.ai/blog/ai-filmmaking-platform-rankings-issue-2 · by Johnathan Kwok · "The AI Filmmaking Report, Issue 02" · independent AI comparison engine, no platform paid, none saw results pre-publication*
+- **Method:** 20 working filmmakers (German Film Award winner → Venice Biennale selection) rank the top-3 platforms they'd open on a deadline (3/2/1 pts, past 3 months). 16/20 have creator/partner/ambassador ties (half in Dreamina's program) → results reported twice: raw + "without partner votes."
+- **Results (all votes / without partner votes):**
+  - **1. Higgsfield — 22 pts** (5 firsts, 9/20 ballots) / **17**
+  - **2. OpenArt — 18** (3) / 6
+  - **3. Magnific — 14** (4 firsts!) / 8
+  - **4. Runway — 13** (3) / 7
+  - **5. Dreamina — 11** (3) / **0** ← ranking collapses without partner votes
+  - **6. CapCut — 8** (0) / 7
+  - **7. ComfyUI — 6** (1) / 6 ← survives fully on merit
+  - 17 platforms across 20 ballots; only 4 appear on >25% — "one leader, long noisy pack = early market"
+- **Core insight (their words):** *"Most of these platforms run the same video models, so filmmakers aren't really picking a model. They're picking how the credits work, how the interface feels and how much control they get over a single shot."*
+  - Magnific #1 vote: yearly plan hands the whole year's credits upfront (project never stalls at month end)
+  - Runway #1 vote: unlimited background mode, zero credit spend
+- **Three kinds of #1:** whole-production place → Higgsfield → Magnific/Runway · scene/shot thinking → OpenArt/Dreamina · **build-your-own pipeline → ComfyUI / fal**
+- **Panel advice:** *"Don't bet on one platform or one model. The best work combines several AI tools with traditional VFX, compositing and 3D, chosen shot by shot."*
+- **Relevance to this research:** different layer from Utopai — these are *creator tools* (where PAI/Utopai X sits above them as a studio stack, and never appears in this poll). Two takeaways for the Prague proposal: (1) the same-models/credits-interface-control thesis mirrors Utopai's "production intelligence is the product" argument; (2) ComfyUI ranks 7th but keeps 6/6 points without partner votes + one first-place vote as the DIY-pipeline choice — the existing stack in this proposal already sits in the panel's "build your own" category.
+
 ## Sources
 - Official: utopaistudios.com/en/pai, /en/blog/what-is-pai, /en/blog/introducing-the-all-new-pai-and-utopai-x, /en/pai/utopai-x, /en/blog/utopai-x-image-to-video-audio-ranking, /en/about, /en/faq, /en/blog/super-powers-matias-collado-pai-case-study
 - Variety: worlds-largest-independent-ai-native-film-tv-studio (…-1236844803), antonio-banderas-ai-powered-feature-cortes (…-1236908962), darren-aronofsky-ai-primordial-soup-raising-15-million (…-1236818544)
@@ -83,3 +102,4 @@ Evidence: official "What is PAI" blog, PAI product page, Matias Collado "Super P
 - Crunchbase: organization/utopai-studios (Cybever AKA, 2 rounds, people); Wikipedia: Utopai_Studios
 - Dealroom: primordial-soup; digitaltoday.co.kr ($60M @ $1B round report)
 - User screenshots (2026-11-01): LinkedIn post thread — "price both ways / AI into development first / train your team" + article (Utopai/Promise/Primordial Soup/Asteria, 80-90% cost, closing "edge is narrowing")
+- VibeDex: vibedex.ai/blog/ai-filmmaking-platform-rankings-issue-2 — AI Filmmaking Platform Rankings 2026 Issue 2 (2026-11-03)
