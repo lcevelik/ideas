@@ -125,3 +125,44 @@
 2. [Claude Fable 5 — Mythos AI Goes Public (Mike Russell)](https://youtu.be/BxR-r4F4Pbw) — 1:12:00+ live stream
 3. [Don't use Fable 5 in Claude… do this instead](https://youtu.be/BxR-r4F4Pbw) — 32:29
 4. [Create a Monkey Island Game with AI (Claude Opus 4.8, Fable 5, Cursor)](https://youtu.be/3sg2aHYAruw) — 27:07
+
+### Making Games With Claude Fable 5.2 & Unreal Engine 5.9 Is... UNREAL (Steal My Skill!)
+
+- **Source:** https://youtu.be/0G8air5h3_s?is=29y5OUN_Ply_uzov
+- **Duration:** 21:51 (1311.0s)
+
+### Key Points
+
+- **[00:02]** Hey guys, I was able to connect Claude code together with Unreal Engine to
+- **[00:50]** updates in real time as well. So while the character models were made with
+- **[01:33]** got started because you didn't know how to code, now's the best time. Thanks to
+- **[02:20]** gotchas that I went through myself and go straight into building some great
+- **[03:04]** which actually was a significant part of the spend. And then everything else like
+- **[03:52]** study it. And you can see here, right? Like immediately found a couple of
+- **[04:34]** some way trained to understand how to convert this into something that is
+- **[05:18]** that I do is that I always tell it to generate things in parallel so that it's
+- **[06:01]** one is a little bit more high definition in how it looks. And this is what you
+- **[06:44]** build a version of the game that uses what I would call primitives. So it does
+- **[07:33]** is that if you go to options, you can go ahead and add additional targets as
+- **[08:14]** this creation of this grey box gym in parallel to the next step which is
+- **[08:59]** character turnaround sheet that you see over here. So you can see here it will
+- **[09:39]** models as well. So I'm just giving you all these options because the tool
+- **[10:22]** Triple Mashy or SFNs for character models because no matter how good the
+- **[11:08]** assets and the character models. This was where Fable 5.2 pretty much was able
+- **[11:51]** input into the game that I'm trying to go for. And I really enjoy being able to
+- **[12:32]** initial gym version, it just kind of like detected when you were close to it
+- **[13:12]** what the controls are. So, you can actually see it over here. If you come
+- **[13:50]** lot more natural manner. If you're thinking about how I did the UI, this
+- **[14:33]** should not have any of those text-based instructions for playing the game. And
+- **[15:17]** polish. And one of the biggest things you can do for your game is to add sound
+- **[16:00]** sounds as well. And in this case, I found like this point one and point loss
+- **[16:43]** animations, the head turning automatically as well, which was really
+- **[17:23]** baseline props and placeholder buildings in the back all the way to what we see
+- **[18:02]** all these tests, making sure that the buttons look right, making sure the
+- **[18:41]** you will oftentimes end up with In this case, the game looked a little bit dark
+- **[19:22]** working on Unreal Engine 5.8, which is what I was using before, you can try
+- **[20:06]** having this lower barrier of entry for people to be able to play on the web
+- **[20:48]** your friends, or even doing it professionally, there's no better time
+- **[21:27]** the good thing about this game was that it was made entirely with Grok Bot on
+
+---
