@@ -1,0 +1,226 @@
+ANEX A 
+1. Purpose of This Annex 
+This document complements the strategic proposal previously submitted by 
+providing concrete evidence of the operational, financial, and technical 
+experience of the Virtual Production Academy and HCG Technologies team 
+in building, evangelizing, and scaling technology ecosystems across Latin 
+America. 
+The objective of this annex is to demonstrate: 
+• 
+Proven capability for regional execution 
+• 
+Financial models that are already in operation 
+• 
+Measurable results across education, marketing, and sales 
+• 
+Direct alignment with the Virtual Production ecosystem and camera-
+tracking technologies 
+ 
+2. Validated Operational Model (Vicon LATAM Case) 
+2.1 Current Financial Model 
+We currently operate as Vicon’s regional strategic partner under the following 
+structure: 
+Monthly Retainer 
+• 
+USD 10,200 
+Annual Marketing Budget 
+• 
+USD 20,000 
+• 
+Dedicated to Latin America 
+• 
+Used for the organization and sponsorship of industry events (USD 
+1,500–2,000 per event), including summits, workshops, and industry 
+activations 
+Annual Travel Budget 
+• 
+USD 18,000 
+• 
+Allocated to flights and accommodation for strategic events across 
+Latin America 
+All expenses are fully documented and justified through monthly Excel 
+reports, which are reviewed in periodic meetings with Vicon’s regional 
+channel management. 
+ 
+2.2 Commission Model 
+• 
+30% commission for projects in Mexico and OEM projects integrated 
+by our team worldwide 
+• 
+30% commission for Virtual Production and Entertainment projects in 
+Latin America 
+In these cases, additional margins are negotiated with local distributors, who 
+typically come from engineering, medical sciences, or advanced systems 
+integration sectors. 
+ 
+3. Scope of the Monthly Retainer (Included Services) 
+The monthly retainer includes: 
+• 
+Marketing strategy applied to education, industrial, and entertainment 
+sectors 
+• 
+Channel management in Latin America (currently 12 active distributors) 
+• 
+Monthly review of leads, funnels, and sales strategies with each 
+distributor 
+• 
+Technical and commercial support for demonstrations 
+• 
+Remote support management for sponsored clients 
+• 
+Production of technical and educational content in Spanish 
+• 
+Development of success-story case studies 
+• 
+Direct support to distributors during the closing of strategic projects 
+ 
+4. Adoption and Evangelization Strategies (Historical Cases) 
+4.1 Epic Games – Unreal Engine LATAM Strategy (2023) 
+• 
+Design of a regional adoption strategy 
+• 
+Management and administration of authorized Unreal Engine 
+instructors across Latin America 
+• 
+Identification of new educational prospects 
+• 
+Onboarding and training of affiliated universities and training centers 
+ 
+4.2 Indie Mocap / Rokoko Strategy (2022–2023) 
+• 
+Regional evangelization platform across Latin America 
+• 
+Creation of a dedicated content channel including: 
+o Over 17 hours of educational content 
+o Workshops and hands-on training sessions (4 per year)  
+• 
+Community activation and collaboration with technical influencers 
+Channel: 
+https://www.youtube.com/channel/UCEPPvsv_hRdUIWZrEeY2j3Q 
+ 
+4.3 Vicon LATAM Strategy (2024 – Present) 
+• 
+Online education platform with over 18 hours of structured training 
+• 
+Continuous training for 12 distributors across 6 countries: 
+o Mexico, Brazil, Argentina, Chile, Colombia, and Peru 
+• 
+Regional communication and strategic marketing management 
+• 
+Lead generation and funnel management for distributors 
+• 
+Monthly lead auditing and sales-conversion tracking 
+• 
+Forecasting, sales reports, and project follow-up 
+• 
+Creation of new Education Partners, including: 
+o Tecnológico de Monterrey 
+o UETEC 
+o YAWA Colombia 
+• 
+Travel to tradeshows, demos, and technical talks throughout Latin 
+America 
+Educational platform: 
+http://motioncapture.academy 
+Vicon LATAM channel: 
+https://www.youtube.com/@ViconLatam/videos 
+ 
+5. VirtualProduction.es Ecosystem (Anchor Platform) 
+Main site: 
+www.virtualproduction.es 
+Key Initiatives 
+• 
+Masters of VP – Industry-focused educational podcast 
+• 
+Discord Community – Active community with over 1,200 users across 
+12 countries 
+• 
+Virtual Production Academy 
+o The only Epic Games–certified center for Virtual Production 
+education in Latin America 
+o Education-driven strategy as a core market-building mechanism 
+Content production includes: 
+• 
+Interviews 
+• 
+Workshops 
+• 
+Client training programs 
+• 
+International training initiatives (UK / Japan) 
+YouTube channel: 
+https://www.youtube.com/@virtualproductiones/videos 
+ 
+6. Events and Community 
+Virtual Production Summit LATAM 
+Flagship annual event focused on Virtual Production and related 
+technologies. 
+Website: 
+www.vpsummit.la 
+ 
+7. Academic and Technology Integrations 
+Academic Integrations 
+• 
+IBERO 
+• 
+Tecnológico de Monterrey 
+• 
+Universities and innovation hubs across Latin America 
+Technology Brands and Ecosystem 
+Tracking 
+• 
+Vicon 
+• 
+ZEISS 
+Operations 
+• 
+Stage Precision 
+• 
+Aximmetry 
+Acquisition 
+• 
+Xgrids 
+• 
+Volinga 
+Servers / Control 
+• 
+Pixera 
+• 
+CenterGrid 
+Real-Time Animation 
+• 
+Reallusion 
+Partner Locations 
+• 
+Vancouver 
+• 
+Mexico City 
+• 
+Bogotá 
+• 
+Santiago 
+• 
+São Paulo 
+ 
+8. Direct Relevance to the Current Proposal 
+The experience outlined in this annex validates the feasibility of the proposed 
+model for Sony and its Virtual Production ecosystem by demonstrating that: 
+• 
+The financial model is already operational 
+• 
+A regional execution structure is in place 
+• 
+Educational, technical, and marketing capabilities are proven 
+• 
+A professional community has already been built 
+• 
+The adoption-through-education and channel-driven approach works 
+effectively in Latin America 
+This annex should be understood as evidence of real-world execution, not as 
+a theoretical proposal. 
+9. Crew 
+• Dr. Carlos Vilchis  
+• Hans Guevara 
+• Gaston Alvarez 
+• Manuel Almejo 
+• Andrea Martinez 

@@ -1,0 +1,143 @@
+Hybrid Virtual Production Studio — Concept Plan
+A Proposal for Two Stages Within Studio's Hive Program
+Executive Summary
+The Hive Program
+Studio's Hive program is bringing rental houses, production 
+companies, post-production, and sound design together 
+under one roof across 11 stages.
+This proposal carves out 2 of those 11 stages as a dedicated 
+hybrid virtual production offering — combining a traditional 
+LED volume (ICVFX) stage with a next-generation AI-driven 
+grey-box stage, designed to work independently or, ideally, 
+together as complementary tools on the same production.
+The goal isn't to compete with the other 9 traditional stages, 
+but to give Hive tenants and outside productions a reason to 
+shoot inside the ecosystem rather than renting LED or VFX 
+services elsewhere.
+The Core Idea
+Most virtual production conversations force a binary choice: build a real-time LED volume, or shoot green/grey screen and composite later. This proposal treats that as a false choice.
+STAGE A
+LED Volume (ICVFX)
+A structurally-ready stage fitted with an LED wall for real-time 
+in-camera visual effects, camera tracking, and traditional ICVFX 
+workflows.
+STAGE B
+AI Grey-Box Stage
+A minimal-build stage where actors and essential practical set 
+pieces are shot against grey/green, with the surrounding 
+environment generated and extended using AI — built from 3D 
+Gaussian Splatting captures of the real set, extended 
+generatively for full spatial consistency.
+The pitch: Productions can use either stage independently, but the real differentiator is using both together — blocking and previz on the grey-box stage, hero LED work on Stage A, 
+unified through a shared generative/splatting pipeline.
+Facility Context
+Facility
+Studio
+Total Stages
+11 stages across the Hive program
+Proposed Stages
+2 of 11 dedicated to this hybrid virtual production offering
+Remaining Stages
+9 continue serving traditional production
+Pricing
+To be determined by Studio (outside scope of this proposal)
+The Hive program is a collaborative ecosystem of rental houses, production, post, and sound design companies under one roof.
+Stage Breakdown
+STAGE A
+LED Volume
+Currently structurally capable of holding an LED wall; no 
+wall installed yet
+Target spec: ~100 reconfigurable LED panels — flexible 
+wall geometry rather than a fixed single configuration
+Vendor candidates: Sony or ROE
+Positioned as the dedicated ICVFX stage: real-time 
+rendering, camera tracking, in-camera composites
+Serves productions that want traditional, proven virtual 
+production — the "known quantity" offering inside Hive
+STAGE B
+AI Grey-Box Stage
+Minimal practical build: essential props and set pieces 
+only, actors filmed against grey/green
+Environment generated and extended around the 
+practical elements using AI
+Technical backbone: 3D Gaussian Splatting to capture 
+real geometry and depth from the practical set, 
+combined with generative AI environment extension
+Positioned as the innovation differentiator — faster 
+iteration, lower physical build cost, environments that 
+would be impractical or expensive to build or LED-render
+The Pipeline
+Who Brings What
+Client Provides
+Camera, lighting, and grip/production 
+equipment
+Studio Provides
+Stage, practical props/set pieces, and the AI 
+pipeline (a service, not just rental)
+Raw Camera 
+Capture
+AI Augmentation
+Delivery Tiers
+Delivery Tiers
+Fast Draft Render
+Available quickly so editorial can start cutting immediately
+Overnight Final-Pixel Render
+Replaces the draft once picture is locked; delivered as 4K, 16-bit, either as 
+layered passes for the client's own post pipeline or as final pixel ready to 
+use as-is
+Gaussian Splatting — A Visualization Layer, Not a Render Step
+Splatting sits alongside the render pipeline rather than inside it — it's used to see the shot, not to produce the deliverable:
+Preproduction
+Previz the environment ahead of the shoot
+On-Set
+Live, simulcam-style preview so the director/DP can see a rough version of the 
+composited shot in real time while filming
+Where Stage A (LED) Fits In
+The strategic bet is that the two stages are stronger together than apart:
+1
+Grey-Box First
+Block scenes, test generative environments, iterate on look 
+without burning LED wall time
+2
+LED Volume for Hero Work
+Bring final environments, lighting, and camera moves onto 
+Stage A for in-camera final pixel where needed
+3
+Shared Toolchain
+The same generative/splatting pipeline feeds both stages, 
+so creative and technical decisions made in grey-box carry 
+forward into LED work instead of starting over
+This positions the offering as a pipeline, not just two rooms — a stronger pitch to Studio than "two more stages for rent."
+Staffing & Service Model
+Stage Operation
+Run by Hive's own crew — not a separate in-house team
+Service Model
+Stage rental bundled with pipeline/creative services — 
+not bare rental
+Target Market
+PRIMARY
+Core Focus
+Commercial and agency production
+Independent film
+TV production
+SECONDARY
+Opportunistic
+Streamers — not a primary focus initially, but the plan flexes toward 
+streamer work if demand there outpaces capacity from the primary 
+segments.
+Open Questions & Next Steps
+RESOLVED
+Already Decided
+Staffing Model
+Hive's own crew operates both stages
+Service Tiers
+Stage + pipeline services, bundled
+LED Wall Spec
+~100 reconfigurable panels, Sony or ROE
+STILL OPEN
+Action Items
+Build sample pipeline demo as proof of concept for pitch 
+meetings
+Develop visual reference deck
+Confirm LED wall procurement path and timeline
+Define pricing for pipeline services
