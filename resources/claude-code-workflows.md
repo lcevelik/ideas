@@ -395,3 +395,13 @@ Be **model agnostic** — use the right model for the right task:
 | Claude just dropped UltraCode... its Insane | Jack | UltraCode strategies, judge panels, agentic OS |
 | Anthropic Engineer: Routines Workshop | Maya (Anthropic) | Routines feature, proactive agents, scheduled workflows |
 | Claude Code Local SEO: 50,000 Google Clicks/Mo | (Tutorial) | SEO content generation with Claude Code |
+
+### Video by notvokzzy
+
+- **Source:** https://www.instagram.com/reel/Dfu4sBiOVcC/
+- **Duration:** 62.8s (01:03)
+
+### Key Points
+
+
+---
