@@ -90,6 +90,21 @@ Evidence: official "What is PAI" blog, PAI product page, Matias Collado "Super P
 - **Panel advice:** *"Don't bet on one platform or one model. The best work combines several AI tools with traditional VFX, compositing and 3D, chosen shot by shot."*
 - **Relevance to this research:** different layer from Utopai — these are *creator tools* (where PAI/Utopai X sits above them as a studio stack, and never appears in this poll). Two takeaways for the Prague proposal: (1) the same-models/credits-interface-control thesis mirrors Utopai's "production intelligence is the product" argument; (2) ComfyUI ranks 7th but keeps 6/6 points without partner votes + one first-place vote as the DIY-pipeline choice — the existing stack in this proposal already sits in the panel's "build your own" category.
 
+## Part 9: Forbes Under 30 unicorn newsletter (2026-11-13) — what's NEW
+*Source: forbes.com/sites/zoyahasan/2026/11/13/meet-the-newest-under-30-unicorn-whos-betting-ai-can-beat-the-hollywood-slump/ · by Alexandra York + Zoya Hasan (Forbes Staff) · triggered by user share 2026-11-16. Everything already covered in Parts 1–5 is omitted here.*
+- **Unicorn + Under 30 framing:** Shen formally profiled as newest Under 30 unicorn. Article headline metric: **$60M → $1B = "a tenth of the way to that $10 billion goal"** — the $10B target is now the stated public yardstick (first explicit quantified framing of her ambition vs valuation).
+- **Crew math (NEW, most quotable):** Shen estimates **30–40 people** to make *Cortés* — **~10 creatives**, rest tech support. Contrast given: *The Odyssey* ran **500+ crew**. Forrester-style framing in the piece: "That's a lot of jobs—but also a massive cost for studios." → use as the concrete headcount number in §2/§4 of the Prague proposal; prior file had cost-% claims but not absolute crew counts.
+- **Revenue-pressure thesis stated plainly:** social/creator content taking share is named as the second pressure on studios after budgets — box office can be up (*The Odyssey* >$1B) while projects still fail to clear margins.
+- **Confirms** $60M/$1B (press-reported, single-source — see Part 2 caveat, unchanged), PAI agents for storyboards/shot planning/ideas, "long-form is a total empty market… monopolize the entire long-form content market", James Harden animated short, 3 films + 2 series next year.
+- **Not corroborated here:** no investor names, no employees, no revenue figures — this article adds framing, not new financials.
+
+### Sibling items in the same newsletter (not Utopai, flagged for relevance)
+- **Mercor** raised **$750M Series D** (Benchmark, Nvidia, Felicis) → **$20B** valuation; pivoted AI recruiting → data lab; three founders now billionaires.
+- **Zipline** (drone delivery) → **$21.5B** after **$1.5B** round led by Paradigm/WCM/Layer; deepening Walmart partnership.
+- **Jensen Huang out as Nvidia CEO** (WSJ → resigned Thu after 3 decades); CFO **Colette Kress** interim CEO. Reported cause: board scrutiny over a relationship with Alice Huang (suspected China ties) + separate alleged affair with an Nvidia executive; he acknowledged infidelity Sunday → board investigation. *[press-reported, evolving]*
+- **Kalshi** hiring a **GTA VI Researcher** at up to **$120K** — play launch night (Nov 19), stream it, deliver an official "State of the Leonida Economy" address.
+- **Nanopath** $25M Series B (total $36.5M) — diagnostics; **Allison Ellsworth** (sold Poppi to Pepsi ~$2B) launches hydration brand **Jetty**.
+
 ## Sources
 - Official: utopaistudios.com/en/pai, /en/blog/what-is-pai, /en/blog/introducing-the-all-new-pai-and-utopai-x, /en/pai/utopai-x, /en/blog/utopai-x-image-to-video-audio-ranking, /en/about, /en/faq, /en/blog/super-powers-matias-collado-pai-case-study
 - Variety: worlds-largest-independent-ai-native-film-tv-studio (…-1236844803), antonio-banderas-ai-powered-feature-cortes (…-1236908962), darren-aronofsky-ai-primordial-soup-raising-15-million (…-1236818544)
