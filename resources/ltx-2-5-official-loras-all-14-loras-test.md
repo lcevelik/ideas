@@ -47,3 +47,9 @@
 - **[18:30]** like? What did you not like? Please let me know in the comment section. If you
 
 ---
+
+### Related Links
+
+- **Official model collection (Hugging Face):** https://huggingface.co/collections/Lightricks/ltx-25-creative-lab — "LTX-2.5 Creative Lab" by Lightricks. 15 LoRA repos: the 14 tested in this video plus `LTX-2.5-22b-IC-LoRA-Pixel-Spatial-Upscaler` (not covered in the video). All are 22b IC-/LoRA video-to-video or image-to-video models, last updated Sep-Oct 2026.
+  - Model repo pattern: `https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-<name>` (e.g. `...-Clean-Plate`, `...-Alpha-Gen`, `...-Restore`).
+  - Source: Hugging Face collection page, fetched 2026-11-19.
